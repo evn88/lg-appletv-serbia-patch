@@ -1,0 +1,55 @@
+{
+  "format": "byte-offset-patch-v1",
+  "spdx_license_identifier": "AGPL-3.0-or-later",
+  "upstream_attribution": "https://github.com/mircea1223/lg-appletv-romania/tree/a0fdd116310305d2d85f14bcdbd321d31b13bd28",
+  "files": {
+    "main.js": {
+      "base_sha256": "d9c95106c263090df8b893d34f8c8f261b52d722bf7fd63923e9ed38b31be9c8",
+      "target_sha256": "2f406936ba4c05b43d7709b33f7fe6f7fdc5f454eff741a1ffea023f9b6433c5",
+      "edits": [
+        {
+          "offset": 31962,
+          "delete_length": 19,
+          "removed_sha256": "8ac5017af881eeebb6df9ef322d44db21fba2443a8b6b8842def2e151a3330b4",
+          "insert_base64": ""
+        }
+      ]
+    },
+    "app.js": {
+      "base_sha256": "a4071bd6f36d3be07093d9dabd05b28d69713d74ceb09743e9a0340578b605f8",
+      "target_sha256": "b20ce8baa307fad236629c177ae83a1271287cc87df7f3fc9fd292762680f1cc",
+      "edits": [
+        {
+          "offset": 1944626,
+          "delete_length": 33,
+          "removed_sha256": "ff61b4261a49dad8e32d6ccc619668f02791e2ab238060aa8828e03cd5f243fd",
+          "insert_base64": "bGV0IHQ7dHJ5e3Q9dGhpcy5zdGF0aWNCYWcuZ2V0VmFsdWUoZSl9Y2F0Y2goZSl7aWYoIShlIGluc3RhbmNlb2Ygbi5BTVNFcnJvciYmZS5jb250YWluc0NvZGUobi5FcnJvckNvZGUudmFsdWVNaXNzaW5nKSkpdGhyb3cgZX1pZigidXZTZWFyY2giPT09ZSYmbnVsbD09dCl7bGV0IGU7dHJ5e2U9dGhpcy5zdGF0aWNCYWcuZ2V0VmFsdWUoImNvdW50cnlDb2RlIil9Y2F0Y2goZSl7fWlmKCJycyI9PT1TdHJpbmcoZXx8IiIpLnRvTG93ZXJDYXNlKCkpcmV0dXJuIHsicm91dGVzIjp7InNlYXJjaC1sYW5kaW5nLXBhdGgiOiIvdXRzL3NlYXJjaC9sYW5kaW5nIiwiaW5pdC1jb25maWctcGF0aCI6Ii91dHMvaW5pdC9jb25maWciLCJjb25maWd1cmF0aW9ucy12My1wYXRoIjoiL3V0cy92My9jb25maWd1cmF0aW9ucyJ9LCJub3dwbGF5aW5nLWVuYWJsZWQiOnRydWUsInV0cy1hcGktYmFzZS11cmwiOiJodHRwczovL3V0cy1hcGkuaXR1bmVzLmFwcGxlLmNvbS8iLCJ1dHMtYXBpLXByZXZpZXctdXJsIjoiaHR0cHM6Ly91dHMtYXBpLml0dW5lcy5hcHBsZS5jb20vIiwibWF4LWxvY2FsLXNldHRpbmdzLWFnZS1zZWNvbmRzIjoxNTU1MjAwMCwiaW5pdC1jb25maWctZ2V0LXVybC1sZW5ndGgtbGltaXQiOiIyMDQ4In19cmV0dXJuIHQ="
+        },
+        {
+          "offset": 1344951,
+          "delete_length": 6,
+          "removed_sha256": "cb28eafc61a54ef9b4621764371ef6b8fc5cc1a217a966416197ed9a903aa585",
+          "insert_base64": "InJzIg=="
+        },
+        {
+          "offset": 1244959,
+          "delete_length": 0,
+          "removed_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "insert_base64": "X19sZ1JzP3siZmVhdHVyZUZsYWdzIjp7ImNsaWVudEZlYXR1cmVzIjpbeyJuYW1lIjoiY2F0Y2hfdXBfdG9fbGl2ZSIsImRvbWFpbiI6InR2YXBwIiwiZW5hYmxlZCI6dHJ1ZX0seyJuYW1lIjoib3BhbCIsImRvbWFpbiI6InR2YXBwIiwiZW5hYmxlZCI6dHJ1ZX0seyJuYW1lIjoicGxhdG8iLCJkb21haW4iOiJ0dmFwcCIsImVuYWJsZWQiOnRydWV9LHsibmFtZSI6InNlcnZlcl9zaWRlX29uZV90YXBfbXVsdGl2aWV3IiwiZG9tYWluIjoidHZhcHAiLCJlbmFibGVkIjp0cnVlfV19fTo="
+        },
+        {
+          "offset": 1243256,
+          "delete_length": 0,
+          "removed_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "insert_base64": "Y29uc3QgX19sZ1JzPS9eMTQzNTAwKD86LVswLTldKyk/KD86LFswLTldKykqJC8udGVzdChTdHJpbmcoZSkpO2lmKF9fbGdScyl7Zy5jYWxsZXI9IndlYiI7Zy5wZm09IndlYiI7Zy52PSIxMDAiO2RlbGV0ZSBnLm1mcjt9"
+        },
+        {
+          "offset": 1242420,
+          "delete_length": 0,
+          "removed_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "insert_base64": "bnVsbD09dCYmZSYmInJzIj09PVN0cmluZyhlLmNvdW50cnlDb2RlfHwiIikudG9Mb3dlckNhc2UoKSl0PXsicm91dGVzIjp7InNlYXJjaC1sYW5kaW5nLXBhdGgiOiIvdXRzL3NlYXJjaC9sYW5kaW5nIiwiaW5pdC1jb25maWctcGF0aCI6Ii91dHMvaW5pdC9jb25maWciLCJjb25maWd1cmF0aW9ucy12My1wYXRoIjoiL3V0cy92My9jb25maWd1cmF0aW9ucyJ9LCJub3dwbGF5aW5nLWVuYWJsZWQiOnRydWUsInV0cy1hcGktYmFzZS11cmwiOiJodHRwczovL3V0cy1hcGkuaXR1bmVzLmFwcGxlLmNvbS8iLCJ1dHMtYXBpLXByZXZpZXctdXJsIjoiaHR0cHM6Ly91dHMtYXBpLml0dW5lcy5hcHBsZS5jb20vIiwibWF4LWxvY2FsLXNldHRpbmdzLWFnZS1zZWNvbmRzIjoxNTU1MjAwMCwiaW5pdC1jb25maWctZ2V0LXVybC1sZW5ndGgtbGltaXQiOiIyMDQ4In07aWYo"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+main.js
+app.js
+SHA256SUMS.json
+*.img
+*.epk
+*.ipk
+*.pem
+*.key
+.env*
+backups/
+local-candidates/
+shell-fixture-*/
