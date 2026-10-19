@@ -4,11 +4,13 @@
   "patches.json": "9b61ce4c300c391d18fc3d708f30425bbe342b2cab35277a978a5cbbffa2a04d",
   "apply_patch.py": "451115141e7eaa834c4ac9590dd8b3f8bbbff0330f0ab4f3c45164667ff22d3e",
   "PROVENANCE.md": "46714b447032897985bcbb8ccd5245aac3a4cbf652e090d2cdfb30476cb71a6e",
-  "README.md": "471a1f8726a101bbd57c21ce6362db5afc6fd49fafcffffb69242b5c149b93e6",
+  "README.md": "53a1d159c203fced2347301bb2f393c5ea8e9cd196362b7c57b03d106f325135",
   "COPYING": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
   ".gitignore": "7f3b43532fd9393aaa58b3f4c3320a2fded7765e305d6f85087278c3858992ba",
   "tests/test_apply_patch.py": "dd2f6e9de7d3b1de2971b1cd27d9bfe16d90b7dfb2e7472a9ebea3d0727df0cd",
   "tv-migration/README-RU.md": "b86f0e3e75f01905c62dcabd9f1b9eae3cb68adaa58f7fe2e3d6fc761fe1fc2d",
   "tv-migration/test_transaction_macos.py": "ca10b58527bb988cdf8649d38f26c6d99e55d22fef3297a91be03413957e707e",
-  "tv-migration/transaction.sh": "141a843ae7d5317f7d1ad97e7b7df73b5893b84d6d63087d65c6f0fa649f11bf"
+  "tv-migration/transaction.sh": "141a843ae7d5317f7d1ad97e7b7df73b5893b84d6d63087d65c6f0fa649f11bf",
+  "README.en.md": "ef97a1fa9bff2a5825faef7fbe648311ac9898bd043e0d946cab08b2e0c950eb",
+  "README.ru.md": "8bf474be5db31ed551537e15a6c9cc16c558e895e5a2811ccdc95587583410e8"
 }
